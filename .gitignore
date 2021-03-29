@@ -1,0 +1,16 @@
+# igone node_modules
+.idea
+node_modules/
+client/node_modules/
+
+# client files
+client/build
+client/.eslintcache
+
+# configs files
+Banco.txt
+config/production.json
+config/default.json
+
+#another items
+package-lock.json
